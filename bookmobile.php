@@ -1,5 +1,3 @@
-akshay hanmandla
-
 <!doctype html>
 <html>
 <head>
