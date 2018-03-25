@@ -82,6 +82,12 @@ if(isset($_SESSION['user']))
 If not registered, click here to<a href="userregister.php"> register</a>
 </div>
 </div>
+
+<div class="form-group row">
+<div class="offset-sm-6 col-sm-2">
+<a href="reset_pass.php">Forgot password</a>
+</div>
+</div>
 </form>
 </div >
 </div>
